@@ -1,1 +1,3 @@
-jobportalbiki.com
+Host / Name: www  
+Type: CNAME  
+Value / Target: <your-GitHub-username>.github.io
