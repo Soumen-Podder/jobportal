@@ -1,0 +1,9 @@
+body { font-family: Arial, Helvetica, sans-serif; margin: 0; padding: 0; background:#f6f8fa; color:#222;}
+.container { max-width: 900px; margin: 24px auto; padding: 16px; background: #fff; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,.08);}
+.header { display:flex; justify-content:space-between; align-items:center; margin-bottom:12px;}
+.btn { padding:8px 12px; border-radius:6px; background:#1f6feb; color:white; border:none; cursor:pointer;}
+.input, textarea { width:100%; padding:8px; margin:6px 0; border-radius:6px; border:1px solid #ddd;}
+.job { border:1px solid #eee; padding:12px; border-radius:6px; margin-bottom:10px;}
+.small { font-size:0.85rem; color:#666;}
+.nav { display:flex; gap:8px; }
+.link { cursor:pointer; color:#1f6feb;}
